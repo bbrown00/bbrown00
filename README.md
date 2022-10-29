@@ -1,6 +1,5 @@
-### Hi there 👋 "LEARNING EVERYTHING CLOUD"
-
-<!--Hi! I am Brandon Brown and Welcome to my GitHub page. My previous experience is in the SAAS/HCM EDI world, and know entering into the world of Devops/Cloud engineering. Excited to see what my future is going to be in the Cloud industry.-->
+### "LEARNING EVERYTHING CLOUD" ☁️
+Hello! 🖐🏾 My name is Brandon Brown and Welcome to my GitHub page. My previous experience is in the SAAS/HCM EDI world, and know entering into the world of Devops/Cloud engineering. Excited to see what my future is going to be in the Cloud industry.
 
 Find out more about me & feel free to connect with me here:
 
